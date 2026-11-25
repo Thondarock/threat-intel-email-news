@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+# Generated daily briefs
+SOC_Brief_*.html
